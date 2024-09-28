@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanuja-web3genes&label=Profile%20views&color=0e75b6&style=flat" alt="dhanuja-web3genes" /> </p>
 
-- 🌱 I’m currently learning **NextJs, Nestjs**
-
 - 👨‍💻 All of my projects are available at [https://thisha.me/](https://thisha.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@thisha.me](https://medium.com/@thisha.me)
